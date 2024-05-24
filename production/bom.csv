@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D4, D5, D6, D7, D8, D9",D_DO-41_P7.62mm_Horizontal,30,D_Small,
+J1,YAAJ_BluePill_SWD_2,1,Conn_02x25_Counter_Clockwise,
+J2,Header-6-Pin-ZigZag,1,Conn_01x06,
+J3,CON_MJ-4PP-9_Reversible,1,AudioJack4_Ground_SwitchTR1,
+"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX18, MX19, MX2, MX20, MX21, MX22, MX23, MX24, MX25, MX26, MX27, MX28, MX29, MX3, MX30, MX4, MX5, MX6, MX7, MX8, MX9",SW_MX_reversible,30,MX_SW_solder,
